@@ -25,9 +25,9 @@ I'm a passionate Computer Science student with a strong interest in **Game Devel
  
  ### 📊 GitHub Stats
  
- ![](https://github-readme-stats.vercel.app/api?username=rayhandestian&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rayhandestian&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rayhandestian&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhandestian&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayhandestian&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rayhandestian&theme=github_dark)
 
 [![](https://visitcount.itsvg.in/api?id=rayhandestian&icon=3&color=1)](https://visitcount.itsvg.in)
  
