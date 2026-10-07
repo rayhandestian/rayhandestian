@@ -1,6 +1,6 @@
 # Rayhan Destian
 
-Computer Science student at Universitas Pertamina, graduating 2026. I build game servers, web apps, and the infrastructure under them, mostly solo.
+Computer Science graduate from Universitas Pertamina (2026). I build game servers, web apps, and the infrastructure under them, mostly solo.
 
 Most of my time goes into **[Kaizen Network](https://kaizenmc.id)**, an Indonesian Minecraft server network I founded in 2022 and run end to end: 100,000+ registered accounts, 150 peak concurrent players. Custom Java plugins and Skript gameplay on the game side, a Next.js platform with store and admin on the web side, Docker and Pterodactyl underneath.
 
